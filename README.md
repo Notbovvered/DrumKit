@@ -1,2 +1,2 @@
 # DrumKit
-Drum kit using Javascript
+Drum kit using Javascript reference https://courses.wesbos.com
